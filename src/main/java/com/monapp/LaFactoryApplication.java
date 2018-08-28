@@ -10,3 +10,5 @@ public class LaFactoryApplication {
 		SpringApplication.run(LaFactoryApplication.class, args);
 	}
 }
+
+// Commentaire Nicolas
